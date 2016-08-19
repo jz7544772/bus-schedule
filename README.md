@@ -8,4 +8,4 @@
 ## [jzguo.site](http://www.jzguo.site)
 
 It currently is not fully functional, because I have not update the database in a while.  
-Since it searches for the current date, the database is only update the dates of June.
+It searches for the today's date, but the database only contains the dates up to June, 2016.
