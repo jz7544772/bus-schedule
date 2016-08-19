@@ -4,4 +4,4 @@
 
 ## Entry point: app/server.js (Please install the dependencies from NPM first)
 
-## [jzguo.site](http://jzguo.site)
+## [jzguo.site](http://www.jzguo.site)
