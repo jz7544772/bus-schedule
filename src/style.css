@@ -1,0 +1,94 @@
+body {
+    background-color: #FFF;
+    font-family: helvetica, arial, sans-serif;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow: auto;
+}
+
+#bread-crubms-wrapper {
+    height: 30px;
+    max-width: 520px;
+    margin-left: 8px;
+}
+
+#bread-crubms {
+    width: 100%;
+    padding-left: 0px;
+}
+
+#bread-crubms pre {
+    color: #154890;
+    display: inline;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#bread-crubms li{
+    display: inline;
+    cursor: pointer;
+    font-style: italic;
+    font-size: 18px;
+}
+
+
+/* Left Menu */
+/* Routes Select Wrapper*/
+.select-wrapper {
+    width: 260px;
+    float: left;
+    margin: 8px;
+}
+
+.select-wrapper .input-field {
+    width: 236px;
+    font-size: 18px;
+    padding: 8px 10px;
+}
+
+.select-wrapper .list {
+    margin-top: 0px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+.select-wrapper .list-item{
+    font-weight: bold;
+    padding: 10px 16px;
+    margin: 2px 0px;
+    cursor: pointer;
+    color: #FFF;
+    box-sizing: border-box;
+}
+
+.list-item.route-stop {
+    background-color: #336688;
+}
+
+.select-wrapper .list-item:hover {
+    border-bottom: 2px solid #333333;
+    transition: border-bottom 0.2s;
+}
+/* Routes Select Wrapper*/
+
+/*Stops Select Wrapper*/
+
+/*Stops Select Wrapper*/
+/*Left Menu*/
+
+/*Right Content*/
+#right-content {
+    width: 520px;
+    float: left;
+    margin-top: 8px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+/*Right Content*/
