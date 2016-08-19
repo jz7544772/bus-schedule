@@ -8,4 +8,4 @@
 ## [jzguo.site](http://www.jzguo.site)
 
 It currently is not fully functional, because I have not updated the database in a while.  
-It searches for the today's date, but the database only contains the dates up to June, 2016.
+It searches for today's schedule, but the database only contains the dates up to June, 2016.
